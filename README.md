@@ -66,4 +66,4 @@ There is a list of all features this mod currently adds:
 
 
 
-And allso better Trial Chamber structure
+**And allso better Trial Chamber structure**
