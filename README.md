@@ -16,6 +16,7 @@ You can also find here a new boss and many more...
 There is a list of all features this mod currently adds:
 
 **Blocks**
+
     All new minecraft copper blocks
     Newest minecraft tuff block
     Copper Bulbs
