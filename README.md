@@ -16,23 +16,14 @@ You can also find here a new boss and many more...
 There is a list of all features this mod currently adds:
 
 **Blocks**
-
     All new minecraft copper blocks
-    
-    Newest minecraft tuff blocks
-
+    Newest minecraft tuff block
     Copper Bulbs
-    
     Copper Buttons
-    
     Copper Pressurplates
-    
     Trial Spawners
-    
     Trial Vaults
-    
     New unique block in this mod Blower
-    
     Allso new Copper Lock
 
 **Entities**
