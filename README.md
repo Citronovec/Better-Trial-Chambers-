@@ -28,16 +28,18 @@ There is a list of all features this mod currently adds:
     Allso new Copper Lock
 
 **Entities**
+
     Breeze
     Copper Golem
     Tuff Golem
     New boss Copper Giant
 
 **Items**
-    New Copper Hammer weapon
-    New Wind Wand weapon
-    Potion of anty wind
-    Trial Key
-    Breeze Rod and Breeze Powder
+
+New Copper Hammer weapon
+New Wind Wand weapon
+Potion of anty wind
+Trial Key
+Breeze Rod and Breeze Powder
 
 And allso better Trial Chamber structure
