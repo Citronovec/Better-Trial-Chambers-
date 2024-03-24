@@ -15,6 +15,8 @@ You can also find here a new boss and many more...
 
 There is a list of all features this mod currently adds:
 
+
+
 **Blocks**
 
   All new minecraft copper blocks
@@ -36,6 +38,7 @@ There is a list of all features this mod currently adds:
   Allso new Copper Lock
 
 
+
 **Entities**
 
   Breeze
@@ -45,6 +48,7 @@ There is a list of all features this mod currently adds:
   Tuff Golem
 
   New boss Copper Giant
+
 
 
 **Items**
@@ -58,6 +62,8 @@ There is a list of all features this mod currently adds:
   Trial Key
 
   Breeze Rod and Breeze Powder
+
+
 
 
 And allso better Trial Chamber structure
