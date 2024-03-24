@@ -14,15 +14,25 @@ You can also find here a new boss and many more...
 ![features_graphics](https://github.com/Citronovec/Better-Trial-Chambers-/assets/153953094/129da463-8aa5-42de-af30-da7576c93c95)
 
 There is a list of all features this mod currently adds:
+
 **Blocks**
+
     All new minecraft copper blocks
+    
     Newest minecraft tuff blocks
+
     Copper Bulbs
+    
     Copper Buttons
+    
     Copper Pressurplates
+    
     Trial Spawners
+    
     Trial Vaults
+    
     New unique block in this mod Blower
+    
     Allso new Copper Lock
 
 **Entities**
