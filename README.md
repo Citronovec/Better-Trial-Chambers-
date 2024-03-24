@@ -17,29 +17,45 @@ There is a list of all features this mod currently adds:
 
 **Blocks**
 
-    All new minecraft copper blocks
-    Newest minecraft tuff block
-    Copper Bulbs
-    Copper Buttons
-    Copper Pressurplates
-    Trial Spawners
-    Trial Vaults
-    New unique block in this mod Blower
-    Allso new Copper Lock
+  All new minecraft copper blocks
+  
+  Newest minecraft tuff block
+  
+  Copper Bulbs
+  
+  Copper Buttons
+  
+  Copper Pressurplates
+  
+  Trial Spawners
+  
+  Trial Vaults
+  
+  New unique block in this mod Blower
+  
+  Allso new Copper Lock
 
 **Entities**
 
-    Breeze
-    Copper Golem
-    Tuff Golem
-    New boss Copper Giant
+  Breeze
+
+  Copper Golem
+
+  Tuff Golem
+
+  New boss Copper Giant
 
 **Items**
 
-New Copper Hammer weapon
-New Wind Wand weapon
-Potion of anty wind
-Trial Key
-Breeze Rod and Breeze Powder
+  New Copper Hammer weapon
+
+  New Wind Wand weapon
+
+  Potion of anty wind
+
+  Trial Key
+
+  Breeze Rod and Breeze Powder
+
 
 And allso better Trial Chamber structure
