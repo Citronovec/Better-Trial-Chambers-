@@ -35,6 +35,7 @@ There is a list of all features this mod currently adds:
   
   Allso new Copper Lock
 
+
 **Entities**
 
   Breeze
@@ -44,6 +45,7 @@ There is a list of all features this mod currently adds:
   Tuff Golem
 
   New boss Copper Giant
+
 
 **Items**
 
