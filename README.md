@@ -10,8 +10,7 @@ You can also find here a new boss and many more...
 
 **The mod is not finished yet and is still a work in progress to modify and add new things...**
 
-
-![features_graphics](https://github.com/Citronovec/Better-Trial-Chambers-/assets/153953094/129da463-8aa5-42de-af30-da7576c93c95)
+![features_graphics](https://github.com/Citronovec/Better-Trial-Chambers-/assets/153953094/f6b71925-7a6a-4a6e-be0c-a9e427bbcf76)
 
 There is a list of all features this mod currently adds:
 
